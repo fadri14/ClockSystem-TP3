@@ -19,6 +19,9 @@ on:
   schedule:
     - cron: '45 0 * * 2'
 
+env:
+  DISPLAY: ":99.0"
+
 jobs:
   build:
     runs-on: ubuntu-latest
