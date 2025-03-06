@@ -1,4 +1,4 @@
-[![](https://github.com/fadri14/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)]
+![](https://github.com/fadri14/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
 
 # ClockSystem
 
