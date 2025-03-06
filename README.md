@@ -1,6 +1,6 @@
 ![](https://github.com/fadri14/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
 ![](https://github.com/fadri14/ClockSystem-TP3/actions/workflows/pmd.yml/badge.svg)
-![](https://github.com/fadri14/ClockSystem-TP3/actions/codeql/pmd.yml/badge.svg)
+![](https://github.com/fadri14/ClockSystem-TP3/actions/workflows/codeql.yml/badge.svg)
 
 # ClockSystem
 
